@@ -1,7 +1,9 @@
 # ECH Workers 客户端
 
-跨平台的 ECH Workers 代理客户端，支持 Windows、macOS 和 Linux（ARM/x86）。
+跨平台的 ECH Workers 代理客户端，支持 Windows、macOS 和 Linux（ARM/x86）软路由。
+
 tg交流群 https://t.me/+ft-zI76oovgwNmRh
+
 ## 致谢
 
 本项目的客户端和 Go 核心程序均基于 [CF_NAT](https://t.me/CF_NAT) 的原始代码开发。
